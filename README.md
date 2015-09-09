@@ -10,6 +10,6 @@ You need to have saxonb-xslt installed:
 
 # Running
 
-The bash script downloads and processes (in parallel) the [[http://eplca.jrc.ec.europa.eu/ELCD3/datasetDownload.xhtml][ELCD3 dataset]].  You may want to change the ```numCores``` variable based on your CPU.
+The bash script downloads and processes (in parallel) the [ELCD3 dataset](http://eplca.jrc.ec.europa.eu/ELCD3/datasetDownload.xhtml).  You may want to change the ```numCores``` variable based on your CPU.
 
 ```bash ./convertXML2RDF.sh```

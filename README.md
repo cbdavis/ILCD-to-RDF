@@ -1,7 +1,7 @@
 # ILCD-to-RDF
 Converts LCA data in an ILCD XML serialization to a (roughly equivalent) RDF/XML serialization
 
-The ILCD schema is quite large, and this code converts only a very small subset which is sufficient for representing the inputs and outputs flows of processes.  The main motivation for this is to explore opportunites and issues with Linked Data and LCA.
+The ILCD schema is quite large, and this code converts only a very small subset which is sufficient for representing processes and their input and output flows.  The main motivation for this is to explore opportunites and issues with Linked Data and LCA.
 
 # Dependencies:
 You need to have saxonb-xslt installed:
